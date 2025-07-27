@@ -14,7 +14,7 @@ The dataset contains transaction-level information like:
 • Amount spent, Product Category
 • City Tier
 
-# Tool % Libraries used
+# Tool & Libraries used
 • Python
 • Pandas
 • NumPy
