@@ -1,9 +1,31 @@
 # Diwali-sales-Project
+EDA and visualization using python
 
-Develop a Diwali sale analysis project using python to analyze customer purchasing behavior and sale trend.
-analysis and visualization to extract actionable business insights.
-• Perform exploratory data analysis(EDA) using pandas, matplotlib and seaborn library
-• Improving customer experience by identifying potential customers across different states, occupation,
-gender and age groups
-• Improving sales by identifying most selling product categories and products, which can help to plan
-inventory and hence the demands
+# Objective
+To performing EDA on the Diwali sales datset is to understand sales trends, customer demeographics, and product preferences so that buisinesses can improve their marketing and invetory planing. this analysis helps identify which products sell the most, which age groups or regions have the highest number of sutomers and customer buying patterns, all of which contribute to booosting sales during the festive season.
+
+# Diwali Sales Data Analysis
+This project performs Exploratory Data Analysis (EDA) on Diwali Sales Dataset using Python libraries like Pandas, Matplotlib, and Seaborn.
+
+# Dataset
+The dataset contains transaction-level information like:
+• Customer_ID
+• Gender, Age Group, Marital Status
+• Amount spent, Product Category
+• City Tier
+
+# Tool % Libraries used
+• Python
+• Pandas
+• NumPy
+• Matplotlib
+• Seaborn
+• Google Colab
+
+# Insights
+• Most buyers are married women aged 26-35
+• Buyers are predominantly from uttar pradesh, Maharashtra and Karnataka
+• Major occupations among buyers include IT, Healthcare, and Aviation sectors
+• Clothing. Food and Electrinic are the most popular category
+• Females spend more than males during the Diwali sale
+• Majority of shopping happens 1-4 weeks before Diwali
